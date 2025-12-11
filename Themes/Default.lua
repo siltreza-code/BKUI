@@ -6,7 +6,7 @@ return {
 	FontSecondary = Color3.fromRGB(180, 180, 180),
 	FontDisabled = Color3.fromRGB(120, 120, 120),
 	OutlineColor = Color3.fromRGB(10, 10, 10),
-	BackgroundImage = 12807408896,
+	BackgroundEnabled = true,
 	Buttons = {
 		Normal = Color3.fromRGB(99, 70, 80),
 		Hover = Color3.fromRGB(158, 112, 128),
